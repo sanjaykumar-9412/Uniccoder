@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@r4gechouhan" target="blank"><img src="https://img.shields.io/twitter/follow/@r4gechouhan?logo=twitter&style=for-the-badge" alt="@r4gechouhan" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
+- 🌱 I’m have Knowledge about **HTML,CSS,JAVA SCRIPT,Tailwind,Bootstrap,Postman,MongoDB**
 
 - 💬 Ask me about **collborating**
 
